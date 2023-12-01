@@ -165,3 +165,8 @@ npm start
 ```
 
 * Now, you should have a basic setup where you can upload an image from your React frontend to your Django backend using Django Rest Framework. Adjust the code and configurations as needed for your specific requirements.
+
+## For more details:
+1. [Djnago](https://docs.djangoproject.com/en/4.2/)
+2. [Django-rest-framework](https://www.django-rest-framework.org/)
+3. [React](https://react.dev/learn)
